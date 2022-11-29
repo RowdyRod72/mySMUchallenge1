@@ -2,9 +2,9 @@
 
 ## Description
 
-- Added ID tags to fix the link to the search engine optimization section.
-- Changed the font size to large instead of 20px
-- In usage below i've provided an example of how the page should behave with the adjustments
+- Addes ID tags to fix the link to the search engine optimization section.
+- Changes the font size to large instead of 20px
+- Usage provides an example of how the page should behave with the adjustments
 
 ## Usage
 
